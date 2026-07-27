@@ -103,7 +103,7 @@ The dataset contains sales transaction records with the following fields:
 ## 📁 Project Structure
 
 ```text
-Task_2/
+Task2/
 │
 ├── Dataset/
 │   └── SQL_Sales_Dataset_200_Rows.xlsx-Sheet1.csv
