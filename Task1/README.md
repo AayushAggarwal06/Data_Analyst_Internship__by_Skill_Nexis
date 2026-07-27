@@ -33,9 +33,24 @@ The dashboard was created using Pivot Tables, Pivot Charts, KPI Cards and Slicer
 
 ---
 
-## Dataset
+## 📁 Project Structure
 
-Global Superstore 2016
+```text
+Task1/
+│
+├── Dataset/
+│   └── global_superstore_2016.xlsx
+│
+├── Global_Superstore_Sales_Dashboard.xlsx
+│
+├── images/
+│   ├── category_chart.png
+│   ├── dashboard.png
+│   ├── market_revenue.png
+│   └── yearly_trend.png
+│
+└── README.md
+```
 
 ---
 
