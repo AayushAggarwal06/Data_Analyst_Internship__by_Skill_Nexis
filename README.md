@@ -38,7 +38,7 @@ Data_Analyst_Internship__by_Skill_Nexis/
 # 🚀 Internship Objectives
 
 * Build a strong foundation in Data Analytics.
-* Perform data cleaning and preparation.
+* Perform data cleaning & preparation.
 * Analyze real-world business datasets.
 * Create interactive dashboards.
 * Learn SQL for business data analysis.
