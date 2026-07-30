@@ -1,6 +1,6 @@
 # 📊 Data Analyst Internship by Skill Nexis
 
-Welcome to my **Data Analyst Internship** repository. This repository contains all the assignments, projects, dashboards, SQL exercises, and learning outcomes completed during the **Skill Nexis Data Analyst Internship Program**.
+Welcome to my **Data Analyst Internship** repository. This repository contains all the assignments, projects, dashboards, SQL exercises, Python notebooks, and learning outcomes completed during the **Skill Nexis Data Analyst Internship Program**.
 
 The primary goal of this repository is to document my learning journey, showcase practical data analytics projects, and build a professional portfolio demonstrating hands-on experience with industry-standard tools and techniques.
 
@@ -25,6 +25,10 @@ Data_Analyst_Internship__by_Skill_Nexis/
 │   └── README.md
 │
 ├── Task3/
+│   ├── Dataset/
+│   ├── Python/
+│   ├── Results/
+│   └── README.md
 │
 ├── Task4/
 │
@@ -37,47 +41,57 @@ Data_Analyst_Internship__by_Skill_Nexis/
 
 # 🚀 Internship Objectives
 
-* Build a strong foundation in Data Analytics.
-* Perform data cleaning & preparation.
-* Analyze real-world business datasets.
-* Create interactive dashboards.
-* Learn SQL for business data analysis.
-* Generate actionable insights from data.
-* Develop a professional GitHub portfolio.
+- Build a strong foundation in Data Analytics.
+- Perform data cleaning & preparation.
+- Analyze real-world business datasets.
+- Create interactive dashboards.
+- Learn SQL for business data analysis.
+- Perform data analysis using Python.
+- Generate actionable insights from data.
+- Develop a professional GitHub portfolio.
 
 ---
 
 # 🛠️ Tools & Technologies
 
-### Data Analysis
+## 📊 Data Analysis
 
-* Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* KPI Cards
-* Slicers
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Slicers
 
-### Database & Querying
+## 🗄️ Database & Querying
 
-* MySQL
-* MySQL Workbench
-* SQL
+- MySQL
+- MySQL Workbench
+- SQL
 
-### Version Control
+## 🐍 Programming
 
-* Git
-* GitHub
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-> More technologies such as **Power BI**, **Python**, **Pandas**, **NumPy**, **Matplotlib**, and **Tableau** will be added in upcoming tasks.
+## 🔄 Version Control
+
+- Git
+- GitHub
+
+> More technologies such as **Power BI**, **NumPy**, **Tableau**, and Machine Learning libraries will be explored in upcoming internship tasks.
 
 ---
 
 # 📌 Tasks Completed
 
-| Week   | Task                  | Description                                                                                                                              |    Status   |
-| ------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
-| Week 1 | Excel Sales Dashboard | Interactive Sales Dashboard using Microsoft Excel, Pivot Tables, Charts, KPI Cards, and Slicers                                          | ✅ Completed |
-| Week 2 | SQL Data Analysis     | Business data analysis using MySQL Workbench with SQL queries, aggregate functions, filtering, grouping, subqueries, and CASE statements | ✅ Completed |
+| Week | Task | Description | Status |
+|------|------|-------------|:------:|
+| Week 1 | Excel Sales Dashboard | Interactive Sales Dashboard using Microsoft Excel, Pivot Tables, Charts, KPI Cards, and Slicers | ✅ Completed |
+| Week 2 | SQL Data Analysis | Business data analysis using MySQL Workbench with SQL queries, aggregate functions, filtering, grouping, subqueries, and CASE statements | ✅ Completed |
+| Week 3 | Python Data Cleaning & Visualization | Data cleaning, feature engineering, exploratory data analysis (EDA), and visualization using Python, Pandas, and Matplotlib | ✅ Completed |
 
 ---
 
@@ -85,47 +99,64 @@ Data_Analyst_Internship__by_Skill_Nexis/
 
 ## 📈 Excel Analytics
 
-* Data Cleaning
-* Pivot Tables
-* Pivot Charts
-* KPI Cards
-* Slicers
-* Dashboard Design
-* Business Reporting
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- KPI Cards
+- Slicers
+- Dashboard Design
+- Business Reporting
 
 ## 🗄️ SQL
 
-* SELECT
-* WHERE
-* ORDER BY
-* DISTINCT
-* LIMIT
-* GROUP BY
-* HAVING
-* SUM()
-* AVG()
-* COUNT()
-* MIN()
-* MAX()
-* CASE Statements
-* Subqueries
-* Aliases (`AS`)
+- SELECT
+- WHERE
+- ORDER BY
+- DISTINCT
+- LIMIT
+- GROUP BY
+- HAVING
+- SUM()
+- AVG()
+- COUNT()
+- MIN()
+- MAX()
+- CASE Statements
+- Subqueries
+- Aliases (`AS`)
+
+## 🐍 Python
+
+- Data Loading
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Datetime Conversion
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- File Handling using Pandas
 
 ---
 
 # 📂 Skills Demonstrated
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Dashboard Development
-* SQL Query Writing
-* Business Data Analysis
-* Data Aggregation
-* Data Filtering & Sorting
-* Business Reporting
-* Problem Solving
-* Git & GitHub
-* Technical Documentation
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- SQL Query Writing
+- Business Data Analysis
+- Feature Engineering
+- Data Visualization
+- Python Programming
+- Pandas
+- Matplotlib
+- Seaborn
+- Business Reporting
+- Problem Solving
+- Git & GitHub
+- Technical Documentation
 
 ---
 
@@ -135,7 +166,7 @@ Each task in this repository focuses on solving practical business problems usin
 
 The internship is designed to strengthen core analytical skills through hands-on assignments, enabling the transition from raw data to meaningful business insights.
 
-Future tasks will include additional analytics tools, visualization platforms, and advanced data analysis techniques.
+As the internship progresses, this repository will continue to grow with new projects covering advanced analytics, business intelligence, data visualization, and Python-based data analysis.
 
 ---
 
@@ -143,13 +174,13 @@ Future tasks will include additional analytics tools, visualization platforms, a
 
 **Aayush Aggarwal**
 
-* **GitHub:** https://github.com/AayushAggarwal06
-* **LinkedIn:** https://www.linkedin.com/in/aayushaggarwal06/
+- **GitHub:** https://github.com/AayushAggarwal06
+- **LinkedIn:** https://www.linkedin.com/in/aayushaggarwal06/
 
 ---
 
 ## ⭐ About This Repository
 
-This repository serves as a structured portfolio of my **Data Analyst Internship** projects. Each task folder contains the dataset, project files, documentation, and outcomes, showcasing my continuous learning and practical application of data analytics concepts.
+This repository serves as a structured portfolio of my **Data Analyst Internship** projects. Each task folder contains the dataset, source files, notebooks, documentation, and outputs, showcasing my continuous learning and practical application of data analytics concepts.
 
 If you find this repository useful, feel free to explore the individual task folders to follow my progress throughout the internship.
