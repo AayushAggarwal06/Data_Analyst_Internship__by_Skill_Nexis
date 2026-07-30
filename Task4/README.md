@@ -121,13 +121,9 @@ Task4/
 
 # 📷 Dashboard Preview
 
-> *(Insert the dashboard screenshot here after uploading it to GitHub.)*
-
-Example:
-
-```markdown
 ![Dashboard](Images/dashboard_preview.png)
-```
+
+
 
 ---
 
