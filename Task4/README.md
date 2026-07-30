@@ -93,10 +93,12 @@ The dataset contains financial transaction records including:
 Task4/
 │
 ├── Dataset/
-├── Dashboard/
-│   └── Financial_Sales_Dashboard.pbix
+│   └── Sample data.xlsx
 ├── Images/
 │   └── dashboard_preview.png
+├── PowerBI/
+│   └── Financial_Sales_Dashboard.pbix
+│   └── Financial_Sales_Dashboard.pdf
 ├── Report/
 │   └── Week4_PowerBI_Report.docx
 └── README.md
