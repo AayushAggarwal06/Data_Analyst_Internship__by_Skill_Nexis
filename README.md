@@ -1,6 +1,6 @@
 # 📊 Data Analyst Internship by Skill Nexis
 
-Welcome to my **Data Analyst Internship** repository. This repository contains all the assignments, projects, dashboards, SQL exercises, Python notebooks, and learning outcomes completed during the **Skill Nexis Data Analyst Internship Program**.
+Welcome to my **Data Analyst Internship** repository. This repository contains all the assignments, projects, dashboards, SQL exercises, Python notebooks, Power BI reports, and learning outcomes completed during the **Skill Nexis Data Analyst Internship Program**.
 
 The primary goal of this repository is to document my learning journey, showcase practical data analytics projects, and build a professional portfolio demonstrating hands-on experience with industry-standard tools and techniques.
 
@@ -31,11 +31,16 @@ Data_Analyst_Internship__by_Skill_Nexis/
 │   └── README.md
 │
 ├── Task4/
+│   ├── Dataset/
+│   ├── Dashboard/
+│   ├── Images/
+│   ├── Report/
+│   └── README.md
 │
 └── README.md
 ```
 
-> This repository will be updated regularly as new internship tasks and projects are completed.
+> This repository is updated regularly as new internship tasks and projects are completed.
 
 ---
 
@@ -47,6 +52,7 @@ Data_Analyst_Internship__by_Skill_Nexis/
 - Create interactive dashboards.
 - Learn SQL for business data analysis.
 - Perform data analysis using Python.
+- Build professional Business Intelligence dashboards using Power BI.
 - Generate actionable insights from data.
 - Develop a professional GitHub portfolio.
 
@@ -72,16 +78,25 @@ Data_Analyst_Internship__by_Skill_Nexis/
 
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## 📈 Business Intelligence
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Interactive Dashboards
+- Data Modeling
 
 ## 🔄 Version Control
 
 - Git
 - GitHub
 
-> More technologies such as **Power BI**, **NumPy**, **Tableau**, and Machine Learning libraries will be explored in upcoming internship tasks.
+> Future tasks will continue exploring advanced analytics, business intelligence, and visualization techniques.
 
 ---
 
@@ -92,6 +107,7 @@ Data_Analyst_Internship__by_Skill_Nexis/
 | Week 1 | Excel Sales Dashboard | Interactive Sales Dashboard using Microsoft Excel, Pivot Tables, Charts, KPI Cards, and Slicers | ✅ Completed |
 | Week 2 | SQL Data Analysis | Business data analysis using MySQL Workbench with SQL queries, aggregate functions, filtering, grouping, subqueries, and CASE statements | ✅ Completed |
 | Week 3 | Python Data Cleaning & Visualization | Data cleaning, feature engineering, exploratory data analysis (EDA), and visualization using Python, Pandas, and Matplotlib | ✅ Completed |
+| Week 4 | Power BI Financial Dashboard | Interactive Financial Sales Dashboard using Power BI, DAX Measures, Power Query, KPI Cards, Charts, and Slicers | ✅ Completed |
 
 ---
 
@@ -137,6 +153,23 @@ Data_Analyst_Internship__by_Skill_Nexis/
 - Data Visualization
 - File Handling using Pandas
 
+## 📊 Power BI
+
+- Data Import
+- Power Query Editor
+- Data Transformation
+- Data Modeling
+- DAX Measures
+- KPI Cards
+- Column Charts
+- Bar Charts
+- Line Charts
+- Donut Charts
+- Scatter Charts
+- Interactive Slicers
+- Dashboard Design
+- Business Intelligence Reporting
+
 ---
 
 # 📂 Skills Demonstrated
@@ -151,8 +184,15 @@ Data_Analyst_Internship__by_Skill_Nexis/
 - Data Visualization
 - Python Programming
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Dashboard Development
+- Business Intelligence
 - Business Reporting
 - Problem Solving
 - Git & GitHub
@@ -162,11 +202,11 @@ Data_Analyst_Internship__by_Skill_Nexis/
 
 # 🎯 Learning Journey
 
-Each task in this repository focuses on solving practical business problems using industry-standard tools.
+Each task in this repository focuses on solving practical business problems using industry-standard tools and technologies.
 
-The internship is designed to strengthen core analytical skills through hands-on assignments, enabling the transition from raw data to meaningful business insights.
+Throughout the internship, I progressed from **Excel-based reporting** to **SQL analysis**, **Python data preprocessing**, and finally **Power BI business intelligence dashboards**, gaining hands-on experience across the complete data analytics workflow.
 
-As the internship progresses, this repository will continue to grow with new projects covering advanced analytics, business intelligence, data visualization, and Python-based data analysis.
+This repository serves as a continuously evolving portfolio that demonstrates practical analytical skills, business reporting capabilities, and proficiency with modern data analytics tools.
 
 ---
 
@@ -181,6 +221,16 @@ As the internship progresses, this repository will continue to grow with new pro
 
 ## ⭐ About This Repository
 
-This repository serves as a structured portfolio of my **Data Analyst Internship** projects. Each task folder contains the dataset, source files, notebooks, documentation, and outputs, showcasing my continuous learning and practical application of data analytics concepts.
+This repository serves as a structured portfolio of my **Data Analyst Internship** projects. Each task folder contains the dataset, source files, dashboards, notebooks, reports, documentation, and project outputs, showcasing my continuous learning and practical application of data analytics concepts.
+
+By the end of Week 4, this repository demonstrates hands-on experience with:
+
+- 📊 Microsoft Excel
+- 🗄️ SQL & MySQL Workbench
+- 🐍 Python (Pandas, NumPy & Matplotlib)
+- 📈 Microsoft Power BI
+- 🔄 Git & GitHub
+
+It reflects my journey from raw data preparation to interactive dashboard development and business intelligence reporting.
 
 If you find this repository useful, feel free to explore the individual task folders to follow my progress throughout the internship.
